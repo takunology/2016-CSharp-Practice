@@ -1,0 +1,19 @@
+﻿<Window x:Class="STEP2_親要素と子要素.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:STEP2_親要素と子要素"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom" HorizontalAlignment="Right">
+            <Button x:Name="Button" Content="OK" Width="75" Margin="5" Click="Button_Click"/>
+            <Button x:Name="button1" Content="キャンセル" Width="75" Margin="5" Click="button1_Click"/>
+        </StackPanel>
+        <StackPanel>
+            <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="メッセージを入力してください" FontSize="18.667"/>
+            <TextBox x:Name="textBox" Height="23" TextWrapping="Wrap" Width="400"/>
+        </StackPanel>
+    </DockPanel>
+</Window>

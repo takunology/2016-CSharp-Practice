@@ -1,0 +1,9 @@
+﻿<Application x:Class="STEP3_設定画面のようなレイアウト作成.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:STEP3_設定画面のようなレイアウト作成"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

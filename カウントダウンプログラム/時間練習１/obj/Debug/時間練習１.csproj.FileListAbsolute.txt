@@ -1,0 +1,28 @@
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\bin\Debug\時間練習１.exe.config
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\bin\Debug\時間練習１.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\bin\Debug\時間練習１.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１.csprojResolveAssemblyReference.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\MainWindow.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\App.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１_MarkupCompile.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１_MarkupCompile.lref
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\MainWindow.baml
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１.g.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１.Properties.Resources.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１.csproj.GenerateResource.Cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\時間練習１\時間練習１\obj\Debug\時間練習１.pdb
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\bin\Debug\時間練習１.exe.config
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１.exe
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１.pdb
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\bin\Debug\時間練習１.exe
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\bin\Debug\時間練習１.pdb
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１.csprojResolveAssemblyReference.cache
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\MainWindow.g.cs
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\App.g.cs
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１_MarkupCompile.cache
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１_MarkupCompile.lref
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\MainWindow.baml
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１.g.resources
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１.Properties.Resources.resources
+F:\アプリ練習\プログラミング\カウントダウン\時間練習１\obj\Debug\時間練習１.csproj.GenerateResource.Cache

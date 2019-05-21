@@ -1,0 +1,14 @@
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\bin\Debug\STEP4 データバインディング.exe.config
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\bin\Debug\STEP4 データバインディング.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\bin\Debug\STEP4 データバインディング.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4 データバインディング.csprojResolveAssemblyReference.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\MainWindow.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\App.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4 データバインディング_MarkupCompile.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4 データバインディング_MarkupCompile.lref
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\MainWindow.baml
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4 データバインディング.g.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4_データバインディング.Properties.Resources.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4 データバインディング.csproj.GenerateResource.Cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4 データバインディング.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP4 データバインディング\STEP4 データバインディング\obj\Debug\STEP4 データバインディング.pdb

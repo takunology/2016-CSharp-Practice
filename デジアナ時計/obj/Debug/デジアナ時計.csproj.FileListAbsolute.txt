@@ -1,0 +1,17 @@
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\bin\Debug\デジアナ時計.exe.config
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\bin\Debug\デジアナ時計.exe
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\bin\Debug\デジアナ時計.pdb
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.csprojResolveAssemblyReference.cache
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\MainWindow.g.cs
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\App.g.cs
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計_MarkupCompile.cache
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計_MarkupCompile.lref
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\MainWindow.baml
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.g.resources
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.Properties.Resources.resources
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.csproj.GenerateResource.Cache
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.exe
+C:\Users\匠\Desktop\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.pdb
+H:\開発したWPF\デジアナ時計\デジアナ時計\bin\Debug\デジアナ時計.exe.config
+H:\開発したWPF\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.exe
+H:\開発したWPF\デジアナ時計\デジアナ時計\obj\Debug\デジアナ時計.pdb

@@ -1,0 +1,6 @@
+D:\アルゴリズム練習\クイックソート\クイックソート\bin\Debug\クイックソート.exe.config
+D:\アルゴリズム練習\クイックソート\クイックソート\bin\Debug\クイックソート.exe
+D:\アルゴリズム練習\クイックソート\クイックソート\bin\Debug\クイックソート.pdb
+D:\アルゴリズム練習\クイックソート\クイックソート\obj\Debug\クイックソート.csprojResolveAssemblyReference.cache
+D:\アルゴリズム練習\クイックソート\クイックソート\obj\Debug\クイックソート.exe
+D:\アルゴリズム練習\クイックソート\クイックソート\obj\Debug\クイックソート.pdb

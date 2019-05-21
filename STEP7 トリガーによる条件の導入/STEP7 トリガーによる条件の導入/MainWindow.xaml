@@ -1,0 +1,31 @@
+﻿<Window x:Class="STEP7_トリガーによる条件の導入.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:STEP7_トリガーによる条件の導入"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="39,47,0,0" VerticalAlignment="Top" Width="439" Height="190"/>
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" >
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Cyan" Offset="0"/>
+                        <GradientStop Color="#FF1FB026" Offset="1"/>
+                        <GradientStop Color="#FF07EBC9" Offset="0.393"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Foreground" Value="Red" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+
+</Window>

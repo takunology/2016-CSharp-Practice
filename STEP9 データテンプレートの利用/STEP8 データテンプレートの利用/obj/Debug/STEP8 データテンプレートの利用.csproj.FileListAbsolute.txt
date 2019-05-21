@@ -1,0 +1,21 @@
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\bin\Debug\STEP8 データテンプレートの利用.exe.config
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.csprojResolveAssemblyReference.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\MainWindow.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\App.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用_MarkupCompile.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用_MarkupCompile.lref
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\bin\Debug\STEP8 データテンプレートの利用.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\bin\Debug\STEP8 データテンプレートの利用.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\MainWindow.baml
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.g.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8_データテンプレートの利用.Properties.Resources.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.csproj.GenerateResource.Cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP8 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.pdb
+G:\プログラミング\STEP9 データテンプレートの利用\STEP8 データテンプレートの利用\bin\Debug\STEP8 データテンプレートの利用.exe.config
+G:\プログラミング\STEP9 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.exe
+G:\プログラミング\STEP9 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.pdb
+F:\アプリ練習\プログラミング\STEP9 データテンプレートの利用\STEP8 データテンプレートの利用\bin\Debug\STEP8 データテンプレートの利用.exe.config
+F:\アプリ練習\プログラミング\STEP9 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.exe
+F:\アプリ練習\プログラミング\STEP9 データテンプレートの利用\STEP8 データテンプレートの利用\obj\Debug\STEP8 データテンプレートの利用.pdb

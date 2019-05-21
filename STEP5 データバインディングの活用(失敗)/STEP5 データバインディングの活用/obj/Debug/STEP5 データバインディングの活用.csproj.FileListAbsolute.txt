@@ -1,0 +1,22 @@
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\bin\Debug\STEP5 データバインディングの活用.exe.config
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.csprojResolveAssemblyReference.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\MainWindow.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\App.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用_MarkupCompile.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用_MarkupCompile.lref
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\bin\Debug\STEP5 データバインディングの活用.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\bin\Debug\STEP5 データバインディングの活用.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\MainWindow.baml
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.g.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5_データバインディングの活用.Properties.Resources.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.csproj.GenerateResource.Cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\STEP5 データバインディングの活用\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.pdb
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\bin\Debug\STEP5 データバインディングの活用.exe.config
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.exe
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.pdb
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用.csprojResolveAssemblyReference.cache
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\obj\Debug\MainWindow.g.cs
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\obj\Debug\App.g.cs
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用_MarkupCompile.cache
+G:\プログラミング\STEP5 データバインディングの活用(失敗)\STEP5 データバインディングの活用\obj\Debug\STEP5 データバインディングの活用_MarkupCompile.lref
